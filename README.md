@@ -1,8 +1,10 @@
 # Japanese Knife Guide
 
-A technical reference on Japanese kitchen knives: steel grades, blade geometry, manufacturing traditions, and brand analysis.
+A technical reference on Japanese kitchen knives: steel grades, blade geometry, manufacturing traditions, and brand analysis. Compiled by [Hamono Club](https://hamonoclub.com), an independent editorial with no manufacturer relationships.
 
-## Steel Grades
+---
+
+## Steel Reference
 
 | Steel | Producer | HRC | Stainless | Notes |
 |-------|----------|-----|-----------|-------|
@@ -14,40 +16,74 @@ A technical reference on Japanese kitchen knives: steel grades, blade geometry, 
 
 ## Knife Types
 
-| Type | Blade | Primary use | Difficulty |
-|------|-------|-------------|------------|
-| Gyuto | Curved, 18-27cm | General chef knife | Low |
-| Santoku | Flat-curved, 16-18cm | Vegetables, fish, meat | Low |
-| Nakiri | Flat rectangular, 16-18cm | Vegetables only | Low |
-| Petty | Slim, 12-15cm | Precision, peeling | Low |
-| Deba | Single bevel, 16-21cm | Fish butchery | High |
-| Yanagiba | Single bevel, 24-36cm | Sashimi | High |
-| Kiritsuke | Angled tip, 24-30cm | Professional general | Very high |
+| Type | Blade | Primary use |
+|------|-------|-------------|
+| Gyuto | Curved, 18-27cm | General chef knife |
+| Santoku | Flat-curved, 16-18cm | Vegetables, fish, meat |
+| Nakiri | Flat rectangular, 16-18cm | Vegetables only |
+| Petty | Slim, 12-15cm | Precision, peeling |
+| Deba | Single bevel, 16-21cm | Fish butchery |
+| Yanagiba | Single bevel, 24-36cm | Sashimi |
+| Kiritsuke | Angled tip, 24-30cm | Professional general |
 
 ## Manufacturing Centers
 
 - **Seki, Gifu** — Japan's largest industrial knife production center. KAI, Miyabi.
 - **Tsubame-Sanjo, Niigata** — Traditional forging region. Tojiro, Global.
 - **Sakai, Osaka** — Artisanal single-bevel knives. Professional Japanese market.
-- **Echizen, Fukui** — Takefu Special Steel production. Steel supplier for most brands.
+- **Echizen, Fukui** — Home of Takefu Special Steel. Steel supplier for most major brands.
 
 ## Brand Overview
 
-| Brand | Base | Entry line | Flagship steel | Price range |
-|-------|------|------------|----------------|-------------|
+| Brand | Base | Entry line | Flagship steel | Range |
+|-------|------|------------|----------------|-------|
 | KAI | Seki, since 1908 | Wasabi Black | VG-MAX | 36-300 EUR |
 | Global | Niigata, since 1985 | GS series | Cromova 18 | 60-250 EUR |
 | Tojiro | Tsubame-Sanjo, since 1955 | DP series | VG-10 | 89-200 EUR |
 | Miyabi | Seki (Zwilling) | 3000 series | SG2 / MC63 | 150-400 EUR |
 
-## Full Analysis
+---
 
-Complete guides with model recommendations, real availability data, and long-term performance analysis:
+## Extended Documentation
 
-- [Japanese Knife Brands: KAI, Global, Tojiro, Miyabi](https://hamonoclub.com/marcas-cuchillos-japoneses/)
-- [Japanese Steel Guide: VG-10, Aogami, SG2, AUS-10](https://hamonoclub.com/aceros-japoneses-vg10-aus10-sg2-aogami/)
-- [Japanese Knife Types: Complete Guide](https://hamonoclub.com/tipos-de-cuchillos-japoneses-guia-completa/)
-- [Best Japanese Knives by Category](https://hamonoclub.com/mejores-cuchillos-japoneses/)
+### Selection Guides
+
+- [Best Japanese Knives by Category](https://hamonoclub.com/mejores-cuchillos-japoneses/) — Selection criteria by origin and verified brands
+- [Japanese Knife Brands: KAI, Global, Tojiro, Miyabi](https://hamonoclub.com/marcas-cuchillos-japoneses/) — Manufacturer breakdown by production center
+- [Best Santoku Knives](https://hamonoclub.com/mejores-cuchillos-santoku/) — Geometry and performance comparison
+- [Best Gyuto Knives](https://hamonoclub.com/mejores-cuchillos-gyuto/) — Chef knife selection by steel and price
+- [Best Nakiri Knives](https://hamonoclub.com/mejores-cuchillos-nakiri/) — Vegetable knife comparison
+- [Best Deba and Yanagiba](https://hamonoclub.com/mejores-cuchillos-deba-yanagiba/) — Professional single-bevel selection
+- [Best Kiritsuke Knives](https://hamonoclub.com/mejores-cuchillos-kiritsuke/) — Advanced general-purpose selection
+
+### Steel and Metallurgy
+
+- [Japanese Steel Guide: VG-10, Aogami, SG2, AUS-10](https://hamonoclub.com/aceros-japoneses-vg10-aus10-sg2-aogami/) — HRC analysis, edge retention, oxidation behavior
+
+### Knife Types (Technical)
+
+- [Santoku: geometry and use](https://hamonoclub.com/cuchillo-santoku-para-que-sirve-cual-elegir/)
+- [Gyuto: characteristics and selection](https://hamonoclub.com/cuchillo-gyuto-para-que-sirve-cual-elegir/)
+- [Nakiri: flat blade geometry](https://hamonoclub.com/cuchillo-nakiri-el-cuchillo-japones-para-verduras/)
+- [Petty: precision knife guide](https://hamonoclub.com/cuchillo-petty-para-que-sirve-cual-elegir/)
+- [Deba: fish butchery knife](https://hamonoclub.com/cuchillo-deba-para-que-sirve-como-elegirlo/)
+- [Kiritsuke: the professional's knife](https://hamonoclub.com/cuchillo-kiritsuke-el-cuchillo-del-chef-japones/)
+
+### Comparatives
+
+- [Gyuto vs Santoku](https://hamonoclub.com/gyuto-vs-santoku/) — Flat profile vs Western rocker
+- [Santoku vs Chef's Knife](https://hamonoclub.com/santoku-vs-cuchillo-de-chef/) — Cut kinematics comparison
+- [Shun vs Miyabi vs Tojiro](https://hamonoclub.com/shun-vs-miyabi-vs-tojiro/) — Heat treatment and finishing comparison
+
+### Sharpening and Maintenance
+
+- [How to Sharpen a Japanese Knife with a Whetstone](https://hamonoclub.com/como-afilar-un-cuchillo-japones-con-piedra-al-agua/)
+- [Whetstone Grit Guide](https://hamonoclub.com/grano-piedra-afilar-cuchillos-japoneses/)
+- [Common Sharpening Mistakes](https://hamonoclub.com/errores-afilar-cuchillos-japoneses/)
+- [Best Whetstones for Japanese Knives](https://hamonoclub.com/mejores-piedras-afilar-cuchillos-japoneses/)
+- [Best Cutting Boards for Japanese Knives](https://hamonoclub.com/mejor-tabla-corte-cuchillos-japoneses/)
+- [Hinoki vs Olive Wood Cutting Boards](https://hamonoclub.com/tabla-hinoki-vs-olivo-cuchillos-japoneses/)
 
 ---
-*Reference data compiled by [Hamono Club](https://hamonoclub.com) — independent Japanese knife editorial.*
+
+*Compiled by [Hamono Club](https://hamonoclub.com) — independent Japanese knife editorial.*
