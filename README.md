@@ -26,6 +26,8 @@ A technical reference on Japanese kitchen knives: steel grades, blade geometry, 
 | Yanagiba | Single bevel, 24-36cm | Sashimi |
 | Kiritsuke | Angled tip, 24-30cm | Professional general |
 
+Full breakdown of every type, with size, bevel and use: [Types of Japanese Knives — complete guide](https://hamonoclub.com/tipos-de-cuchillos-japoneses-guia-completa/).
+
 ## Manufacturing Centers
 
 - **Seki, Gifu** — Japan's largest industrial knife production center. KAI, Miyabi.
@@ -61,6 +63,8 @@ A technical reference on Japanese kitchen knives: steel grades, blade geometry, 
 - [Japanese Steel Guide: VG-10, Aogami, SG2, AUS-10](https://hamonoclub.com/aceros-japoneses-vg10-aus10-sg2-aogami/) — HRC analysis, edge retention, oxidation behavior
 
 ### Knife Types (Technical)
+
+Start with the [complete guide to types of Japanese knives](https://hamonoclub.com/tipos-de-cuchillos-japoneses-guia-completa/), then the individual references below.
 
 - [Santoku: geometry and use](https://hamonoclub.com/cuchillo-santoku-para-que-sirve-cual-elegir/)
 - [Gyuto: characteristics and selection](https://hamonoclub.com/cuchillo-gyuto-para-que-sirve-cual-elegir/)
