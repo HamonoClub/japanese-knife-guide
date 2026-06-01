@@ -50,6 +50,8 @@ Full breakdown of every type, with size, bevel and use: [Types of Japanese Knive
 
 ### Selection Guides
 
+- [The Best Japanese Knife by Cook Profile](https://hamonoclub.com/mejor-cuchillo-japones/) - Flagship guide, recommendation by cooking profile
+- [Best Value Japanese Knives](https://hamonoclub.com/mejores-cuchillos-japoneses-calidad-precio/) - Quality-price winners by category
 - [Best Japanese Knives by Category](https://hamonoclub.com/mejores-cuchillos-japoneses/) — Selection criteria by origin and verified brands
 - [Japanese Knife Brands: KAI, Global, Tojiro, Miyabi](https://hamonoclub.com/marcas-cuchillos-japoneses/) — Manufacturer breakdown by production center
 - [Best Santoku Knives](https://hamonoclub.com/mejores-cuchillos-santoku/) — Geometry and performance comparison
@@ -79,6 +81,8 @@ Start with the [complete guide to types of Japanese knives](https://hamonoclub.c
 
 ### Comparatives
 
+- [Sujihiki vs Yanagiba](https://hamonoclub.com/sujihiki-vs-yanagiba/) - Double bevel vs single bevel slicers
+- [Japanese vs German Knives](https://hamonoclub.com/cuchillos-japoneses-vs-alemanes/) - Steel, geometry and use
 - [Gyuto vs Santoku](https://hamonoclub.com/gyuto-vs-santoku/) — Flat profile vs Western rocker
 - [Santoku vs Chef's Knife](https://hamonoclub.com/santoku-vs-cuchillo-de-chef/) — Cut kinematics comparison
 - [Shun vs Miyabi vs Tojiro](https://hamonoclub.com/shun-vs-miyabi-vs-tojiro/) — Heat treatment and finishing comparison
