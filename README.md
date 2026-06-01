@@ -72,6 +72,10 @@ Start with the [complete guide to types of Japanese knives](https://hamonoclub.c
 - [Petty: precision knife guide](https://hamonoclub.com/cuchillo-petty-para-que-sirve-cual-elegir/)
 - [Deba: fish butchery knife](https://hamonoclub.com/cuchillo-deba-para-que-sirve-como-elegirlo/)
 - [Kiritsuke: the professional's knife](https://hamonoclub.com/cuchillo-kiritsuke-el-cuchillo-del-chef-japones/)
+- [Yanagiba: the sashimi single-bevel](https://hamonoclub.com/cuchillo-yanagiba-para-que-sirve-cual-elegir/)
+- [Sujihiki: the double-bevel slicer](https://hamonoclub.com/cuchillo-sujihiki/)
+- [Bunka: the k-tip all-rounder](https://hamonoclub.com/cuchillo-bunka/)
+- [Usuba: professional vegetable knife](https://hamonoclub.com/cuchillo-usuba/)
 
 ### Comparatives
 
@@ -87,6 +91,20 @@ Start with the [complete guide to types of Japanese knives](https://hamonoclub.c
 - [Best Whetstones for Japanese Knives](https://hamonoclub.com/mejores-piedras-afilar-cuchillos-japoneses/)
 - [Best Cutting Boards for Japanese Knives](https://hamonoclub.com/mejor-tabla-corte-cuchillos-japoneses/)
 - [Hinoki vs Olive Wood Cutting Boards](https://hamonoclub.com/tabla-hinoki-vs-olivo-cuchillos-japoneses/)
+- [Sharpening Angle for Japanese Knives](https://hamonoclub.com/angulo-de-afilado-para-cuchillos-japoneses/)
+- [Camellia Oil for Japanese Knives](https://hamonoclub.com/aceite-de-camelia-para-cuchillos-japoneses/)
+- [Maintenance Kit for Japanese Knives](https://hamonoclub.com/kit-mantenimiento-cuchillos-japoneses/)
+- [How to Store Japanese Knives](https://hamonoclub.com/como-guardar-cuchillos-japoneses/)
+- [Caring for Carbon Steel Knives](https://hamonoclub.com/como-cuidar-cuchillo-acero-carbono/)
+- [Safe Magnetic Blocks for Japanese Knives](https://hamonoclub.com/bloques-magneticos-seguros-cuchillos-japoneses/)
+- [What is a Saya (knife sheath)](https://hamonoclub.com/que-es-una-saya/)
+
+### Culture and Craft
+
+- [Sakai: the city that lives off the knife](https://hamonoclub.com/sakai-la-ciudad-que-vive-del-cuchillo/)
+- [The Togishi: the Japanese sharpener](https://hamonoclub.com/el-togishi-el-afilador-japones/)
+- [The Japanese knife as a status object](https://hamonoclub.com/cuchillo-japones-objeto-de-estatus/)
+- [Hinoki: the Japanese wood that protects the edge](https://hamonoclub.com/hinoki-madera-japonesa-cuchillos/)
 
 ---
 
