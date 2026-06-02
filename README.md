@@ -44,6 +44,8 @@ Full breakdown of every type, with size, bevel and use: [Types of Japanese Knive
 | Tojiro | Tsubame-Sanjo, since 1955 | DP series | VG-10 | 89-200 EUR |
 | Miyabi | Seki (Zwilling) | 3000 series | SG2 / MC63 | 150-400 EUR |
 
+Full analysis of each manufacturer, with two models per brand and entry-point guidance: [Japanese knife brands compared](https://hamonoclub.com/marcas-cuchillos-japoneses/).
+
 ---
 
 ## Extended Documentation
