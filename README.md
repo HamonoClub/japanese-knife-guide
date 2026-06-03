@@ -68,7 +68,7 @@ Full analysis of each manufacturer, with two models per brand and entry-point gu
 
 ### Knife Types (Technical)
 
-Start with the [complete guide to types of Japanese knives](https://hamonoclub.com/tipos-de-cuchillos-japoneses-guia-completa/), then the individual references below.
+Start with the [complete guide to types of Japanese knives](https://hamonoclub.com/tipos-de-cuchillos-japoneses-guia-completa/), then the individual references below. If you are unsure what single-bevel and double-bevel mean, the [single-bevel vs double-bevel guide](https://hamonoclub.com/monobisel-doble-bisel-cuchillos-japoneses/) explains how each one cuts and sharpens.
 
 - [Santoku: geometry and use](https://hamonoclub.com/cuchillo-santoku-para-que-sirve-cual-elegir/)
 - [Gyuto: characteristics and selection](https://hamonoclub.com/cuchillo-gyuto-para-que-sirve-cual-elegir/)
@@ -80,6 +80,7 @@ Start with the [complete guide to types of Japanese knives](https://hamonoclub.c
 - [Sujihiki: the double-bevel slicer](https://hamonoclub.com/cuchillo-sujihiki/)
 - [Bunka: the k-tip all-rounder](https://hamonoclub.com/cuchillo-bunka/)
 - [Usuba: professional vegetable knife](https://hamonoclub.com/cuchillo-usuba/)
+- [Honesuki: poultry boning knife](https://hamonoclub.com/cuchillo-honesuki/)
 
 ### Comparatives
 
