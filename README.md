@@ -66,6 +66,7 @@ Full analysis of each manufacturer, with two models per brand and entry-point gu
 
 - [Japanese Steel Guide: VG-10, Aogami, SG2, AUS-10](https://hamonoclub.com/aceros-japoneses-vg10-aus10-sg2-aogami/) — HRC analysis, edge retention, oxidation behavior
 - [Steel Finishes: kurouchi, kasumi, damascus, nashiji, migaki](https://hamonoclub.com/acabados-acero-cuchillos-japoneses/) — What each blade finish means for maintenance, price and cutting
+- [Wa vs Yo Handles: which to choose](https://hamonoclub.com/mango-cuchillo-japones-wa-yo/) - Weight, balance, grip and maintenance of Japanese vs Western handles
 
 ### Knife Types (Technical)
 
