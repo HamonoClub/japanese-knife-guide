@@ -53,6 +53,7 @@ Full analysis of each manufacturer, with two models per brand and entry-point gu
 ### Selection Guides
 
 - [The Best Japanese Knife by Cook Profile](https://hamonoclub.com/mejor-cuchillo-japones/) - Flagship guide, recommendation by cooking profile
+- [Which Japanese Knife for Each Task](https://hamonoclub.com/que-cuchillo-japones-para-cada-tarea/) - Pick the right knife by what you want to cut: sushi, vegetables, boning poultry, slicing, daily use
 - [Best Value Japanese Knives](https://hamonoclub.com/mejores-cuchillos-japoneses-calidad-precio/) - Quality-price winners by category
 - [Best Japanese Knives by Category](https://hamonoclub.com/mejores-cuchillos-japoneses/) — Selection criteria by origin and verified brands
 - [Japanese Knife Brands: KAI, Global, Tojiro, Miyabi](https://hamonoclub.com/marcas-cuchillos-japoneses/) — Manufacturer breakdown by production center
