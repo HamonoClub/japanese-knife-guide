@@ -61,7 +61,8 @@ Full analysis of each manufacturer, with two models per brand and entry-point gu
 - [Best Gyuto Knives](https://hamonoclub.com/mejores-cuchillos-gyuto/) — Chef knife selection by steel and price
 - [Best Nakiri Knives](https://hamonoclub.com/mejores-cuchillos-nakiri/) — Vegetable knife comparison
 - [Best Deba and Yanagiba](https://hamonoclub.com/mejores-cuchillos-deba-yanagiba/) — Professional single-bevel selection
-- [Best Kiritsuke Knives](https://hamonoclub.com/mejores-cuchillos-kiritsuke/) — Advanced general-purpose selection
+- [Best Kiritsuke Knives](https://hamonoclub.com/mejores-cuchillos-kiritsuke/)
+- [Best Japanese Knife Sets](https://hamonoclub.com/mejores-sets-cuchillos-japoneses/) - KAI and Global sets by budget: entry, mid-range and premium with verified Japanese steel — Advanced general-purpose selection
 
 ### Steel and Metallurgy
 
