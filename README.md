@@ -117,6 +117,16 @@ Start with the [complete guide to types of Japanese knives](https://hamonoclub.c
 - [The Japanese knife as a status object](https://hamonoclub.com/cuchillo-japones-objeto-de-estatus/)
 - [Hinoki: the Japanese wood that protects the edge](https://hamonoclub.com/hinoki-madera-japonesa-cuchillos/)
 
+### The Hamono Ecosystem
+
+Hamono Club is part of a three-site independent project on Japanese knives, each with a different focus:
+
+- **[Hamono Club](https://hamonoclub.com)** — the main editorial: buying guides, knife types, steel and sharpening. The reference above draws from here.
+- **[Hamono Magazine](https://magazine.hamonoclub.com)** — the long-form magazine: [craft routes across Japan](https://magazine.hamonoclub.com/viaje/) (Sakai, Seki, Echizen, Tosa and more), [culture and history](https://magazine.hamonoclub.com/cultura/), and [in-depth knife reviews](https://magazine.hamonoclub.com/reviews/).
+- **[Hamono Low Cost](https://lowcost.hamonoclub.com)** — honest picks in the [budget tier](https://lowcost.hamonoclub.com/mejores-cuchillos-japoneses-baratos/): which sub-80€ Japanese knives actually hold up, and which to skip.
+
+No manufacturer relationships across any of the three. We recommend what earns it.
+
 ---
 
 *Compiled by [Hamono Club](https://hamonoclub.com) — independent Japanese knife editorial.*
